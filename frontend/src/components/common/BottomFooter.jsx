@@ -5,7 +5,7 @@ const BottomFooter = () => {
     <div className="flex items-center pt-8">
       <div className="flex flex-grow">
         <span className="poppins text-gray-500">
-          Developed by 💗 Praveen Kumar
+          Developed by 💗 Sumant kumar pandit
         </span>
       </div>
 
