@@ -1,11 +1,13 @@
 import React from "react";
 
 const BottomFooter = () => {
+
+  const currentYear = new Date().getFullYear();
   return (
     <div className="flex items-center pt-8">
       <div className="flex flex-grow">
         <span className="poppins text-gray-500">
-          Developed by 💗 Sumant kumar pandit
+        Developed by 💗 Sumant Kumar Pandit © {currentYear}
         </span>
       </div>
 
